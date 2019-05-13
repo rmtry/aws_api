@@ -1,5 +1,7 @@
 https://ilhygr3utc.execute-api.us-east-2.amazonaws.com/prod
 
+Functions are used: 'create' and 'list'. 
+
 # Serverless Node.js Starter
 
 A Serverless starter that adds ES7 syntax, serverless-offline, environment variables, and unit test support. Part of the [Serverless Stack](http://serverless-stack.com) guide.
